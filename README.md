@@ -1,3 +1,8 @@
+⚠️ Archived  
+This repository is no longer maintained.
+
+I am no longer interested in **tdlib** and don’t have time to continue development or provide support.
+
 # td-json-client-prebuilt
 
 The repository contains tdlib binaries which are built using github actions without manual intervention. Check [build-tdlib.yml](https://github.com/ivk1800/td-json-client-prebuilt/blob/master/.github/workflows/build-tdlib.yml) to make sure. Check [releases](https://github.com/ivk1800/td-json-client-prebuilt/releases) page to download the desired binary.
